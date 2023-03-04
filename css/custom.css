@@ -1,0 +1,38 @@
+.mystyle{
+    text-align: none;
+}
+.mystyle li{
+    list-style: none;
+}
+.Mycontainer{
+    width:80%;
+    margin: 0 auto;
+    background:rgba(235, 87, 87, 0.05);
+    border-radius: 16px;
+    padding:30px;
+    display: grid;
+    grid-template-rows: auto;
+   
+}
+.Mycontainer{
+    font-size:24px;
+    font-weight: 600;
+    line-height: 35px;
+    
+}
+.Mycontainer p{
+    font-size:15px;
+    font-weight: 100;
+    line-height: 27px;
+}
+.pricing .item{
+     float:left;
+     width:100px;
+     margin: 5px;
+     
+}
+.featureintigration{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+}
